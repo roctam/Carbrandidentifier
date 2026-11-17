@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.exe
+*.fdmdownload
+*.docx
+*.pdf
+*.png
+*.rar
+*.winmd
+dataset/
+runs/
+weights/
+*.pt
+*.csv
+!.gitignore
